@@ -107,7 +107,7 @@ author:
   name             : "My Name is Samuel Liu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an Engineering Graduate Student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I specifically have dedicated much of my early career towards medical devices, and am always curious to expand my knowledge and help others."
-  location         : "Currently interning at MathWorks, Inc."
+  location         : "Currently interning at MathWorks"
   email            :
   links:
     - label: "Email"
