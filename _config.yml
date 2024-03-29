@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark"  #"default" # "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Samuel Liu"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Samuel Liu"
@@ -104,21 +104,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "My Name is Samuel Liu"
+  name             : "Welcome!"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an Engineering Graduate Student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I specifically have dedicated much of my early career towards medical devices, and am always curious to expand my knowledge and help others."
+  bio              : "I am an Engineering Graduate student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
   location         : "Currently interning at MathWorks"
-  email            :
+  email            : 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:samueliu190@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/samueliu/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/samueliu_/"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:samueliu190@gmail.com"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/samueliu/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/samueliu_/"
+    #   label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://linkedin.com/in/samueliu/"
+
 
 # Site Footer
 footer:
@@ -225,6 +229,12 @@ whitelist:
   - jekyll-include-cache
 
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -275,3 +285,11 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
