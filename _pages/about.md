@@ -35,10 +35,11 @@ gallery:
     alt: "Wicket National"
     title: "Wicket National"
     caption: "I've been a part of my family's small business since I was a child, and since I've become an engineer have conducted multiple projects to improve the production line equipment and research new products."
+gallery_layout: third
 ---
 
 I chose to dedicate my career to engineering, with particular interest in the medical devices and data science. I've had the privilege to work, research, and study at a variety of opportunies that have helped shape the engineer I am today and sharpen my interdisciplinary skillset. Feel free to look below at some of my experiences across industry and academia! 
 
 If you would like to learn about specific projects I've documented, click on the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, cooking, or sports!), click "Contact" to reach out to me above!
 
-{% include gallery.html id="gallery" layout="third" caption="true" %}
+{% include gallery.html id="gallery" caption="true" %}
