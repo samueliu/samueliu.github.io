@@ -1,5 +1,5 @@
 ---
 layout: single
 title: LVAD Impeller Design
-permalink: /projects/lvad-impeller/
+permalink: /portfolio/lvad-impeller/
 ---

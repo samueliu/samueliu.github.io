@@ -1,7 +1,7 @@
 ---
 layout: single
 title: A Deep-Learning Approach to Less-Invasive Cardiac Monitoring
-permalink: /projects/hemodynamic-monitoring/
+permalink: /portfolio/hemodynamic-monitoring/
 ---
 
 (PROPRIETARY: Edwards Lifesciences)

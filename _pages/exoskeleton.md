@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Hip and Ankle Exoskeleton
-permalink: /projects/exoskeleton/
+permalink: /portfolio/exoskeleton/
 ---
 
 (PROPRIETARY: Georgia Tech Exoskeleton and Prosthetics Intelligent Controls Lab)
