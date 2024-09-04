@@ -280,13 +280,13 @@ defaults:
       type: posts
     values:
       layout: single
+      gallery:
+        caption: true
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
-      gallery:
-        caption: true
   # _portfolio
   - scope:
       path: ""
