@@ -38,3 +38,14 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Custom CSS for gallery layout */
+.third {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates three equal-width columns */
+  gap: 10px; /* Adjusts the spacing between gallery items */
+}
+
+.third .gallery-item {
+  padding: 10px; /* Optional padding inside each gallery item */
+}
