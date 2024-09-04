@@ -107,7 +107,7 @@ author:
   name             : "Welcome!"
   avatar           : "/images/profile.jpg"
   bio              : "I am an Engineering Graduate student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
-  location         : "Currently an M.S. Student and TA/Graduate Researcher at Georgia Tech"
+  location         : "Current M.S. Student and TA @ GT"
   email            : 
   links:
     # - label: "Email"
@@ -285,6 +285,8 @@ defaults:
       comments: # true
       share: true
       related: true
+      gallery:
+        caption: true
   # _portfolio
   - scope:
       path: ""

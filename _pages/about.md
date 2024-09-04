@@ -33,4 +33,4 @@ I have chosen to dedicate my career to engineering, with particular interest in 
 
 If you would like to learn about a few more specific projects I've documented, click on the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, cooking, or sports!), click "Contact" to contact me above!
 
-{% include gallery id="gallery" caption="true" %}
+{% include gallery id="gallery" %}
