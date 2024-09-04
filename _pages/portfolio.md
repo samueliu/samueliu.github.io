@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: Projects
+title: Portfolio
 permalink: /projects/
 collection: portfolio
 entries_layout: grid
@@ -24,17 +24,19 @@ classes: wide
 #     url: "/projects/self-landing-rocket"
 ---
 
-The following pages are currently under construction and do not provide much detail. Some projects are proprietary belonging to labs/companies. To see one of my most recent projects, go to my github at https://github.com/samueliu/Self-Landing-Rocket
+The following pages are currently under construction and do not provide much detail. Some projects are proprietary belonging to labs/companies. To see more detail for some projects (including the most recent), go to my github at https://github.com/samueliu/
 
 For more information on my professional and research experiences, go to the "About" page.
 
 Welcome to my projects page! Here are some of the projects I've been working on:
 
 - [Self-Landing Rocket Test Bed](/projects/self-landing-rocket/)
+- [Self-Supervised Learning for Blood Volume Decomposition](/projects/self-supervised/)
 - [Deep-Learning Predictor of Invasive Hemodynamic Parameters](/projects/hemodynamic-monitoring/)
-- [Lower-Limb Exoskeletons](/projects/exoskeleton/)
+- [Lower-Limb Robotic Exoskeletons](/projects/exoskeleton/)
+- [Wicket Machinery Production Upgrades](/projects/wicket-machinery/)
+- [LVAD Impeller Design](/projects/lvad-impeller/)
 - [NBA Playoff Predictor Model](/projects/playoff-predictor/)
-- [Wicket Wire Machinery Upgrades](/projects/wicket-machinery/)
 - [Bag-Sign Assembly Machinery Prototype](/projects/bag-sign/)
 - [Just a Cool Flowerpot](/projects/cool-flowerpot/)
 

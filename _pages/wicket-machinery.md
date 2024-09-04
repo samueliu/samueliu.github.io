@@ -1,5 +1,5 @@
 ---
 layout: single
-title: Wicket Wire Machine Upgrades
-permalink: /projects/wicket-machinery/
+title: Wicket Machinery Production Upgrades
+permalink: /portfolio/wicket-machinery/
 ---

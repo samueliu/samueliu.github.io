@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Welcome!"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "I am an Engineering Graduate student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
-  location         : "Currently interning at MathWorks"
+  location         : "Currently an M.S. Student at Georgia Tech"
   email            : 
   links:
     # - label: "Email"
@@ -183,7 +183,7 @@ incremental: false
 # Headers
 header_pages:
   - about.md
-  - projects.md
+  - portfolio.md
   - contact.md
 
 
