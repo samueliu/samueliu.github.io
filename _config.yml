@@ -282,6 +282,7 @@ defaults:
       layout: single
       gallery:
         caption: true
+        layout: "third"
       author_profile: true
       read_time: true
       comments: # true
