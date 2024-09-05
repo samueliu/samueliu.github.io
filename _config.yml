@@ -104,24 +104,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome!"
+  name             : "Hi!"
   avatar           : "/images/profile.jpg"
   bio              : "I am an Engineering Graduate student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
-  location         : "Current M.S. Student and TA @ GT"
+  location         : "M.S. Student, TA @ Georgia Tech"
   email            : 
   links:
-    # - label: "Email"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "mailto:samueliu190@gmail.com"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/samueliu/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/samueliu_/"
-    #   label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://linkedin.com/in/samueliu/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:samueliu190@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/samueliu/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/samueliu_/"
+      label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/samueliu/"
 
 
 # Site Footer

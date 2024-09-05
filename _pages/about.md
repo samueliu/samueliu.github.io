@@ -5,49 +5,41 @@ permalink: /about/
 gallery:
   - image_path: /images/logos/gt.png
     alt: "Georgia Institute of Technology"
-    title: "Georgia Institute of Technology"
-    caption: "I attended Georgia Tech from 2019-Present, receiving a B.S. in Mechanical Engineering and a Minor in Computer Science & AI. I'm currently a Master's student in Computational Science and Engineering (specialization in Mechanical Engineering), and am expected to graduate in Spring of 2025. Throughout my years at GT I have participated in classes, research labs, and extra-curriculars which have greatly improved my skills as a well-rounded engineer. I am also currently a laboratory TA for ME 3057 Experimental Methods - a course that teaches test-method development, system/uncertainty analysis, and technical communications.
-    "
+    title: "Georgia Tech"
+    caption: "I attended from 2019-Present, with a B.S. in MechE and a Minor in CS & AI. I'm currently an M.S. student in Computational Science and Engineering (specializing in ME), and expect to graduate Spring 2025. In my years at GT I've participated in classes, research, and extra-curriculars that have grown my skills as a well-rounded engineer. I am currently a TA for ME 3057 Experimental Methods, teaching test-method development, system/uncertainty analysis, and technical communications.\n"
   - image_path: /images/logos/irl.png
     alt: "Inan Research Lab"
     title: "Inan Research Lab"
-    caption: "I am currently working under PI Dr. Omer Inan, doing projects on self-supervised learning and the efficacy of wearable sensors. I am currently working towards journal publication on a recent project.
-    "
+    caption: "I am currently doing projects under Dr. Omer Inan on self-supervised learning and the efficacy of wearable sensors, and am working towards journal publication on my work.\n"
   - image_path: /images/logos/mathworks.jpg
     alt: "MathWorks"
     title: "MathWorks"
-    caption: "I interned with MathWorks in Spring of 2024, working on the quality engineering team for cloud products related to Simulink. My main project was to create a fully-fledged testing strategy and protocol to achieve product uptime and reliability on an entirely new suite of products across the company, and included a proof-of-concept that involved automated tests and CI/CD.
-    "
+    caption: "I interned in Spring 2024, working on the quality engineering team for Simulink cloud products. My main role was creating a company-wide QE strategy and testing protocol to achieve product uptime and reliability on an entirely new suite of products, and included a proof-of-concept that involved automated tests and CI/CD.\n"
   - image_path: /images/logos/edwards.png
     alt: "Edwards Lifesciences"
     title: "Edwards Lifesciences"
-    caption: "As a co-op and intern, I worked on the Critical Care R&D division (now part of BD) for almost a year, collaborating in cross-functional teams focusing on advanced patient monitoring. My projects were mainly with the Algorithms team and utilized skills in data science, ML, animal labs, data engineering, V&V testing, and regulatory affairs. I am currently one of the owners for a patent-pending recent project.
-    "
+    caption: "As a co-op and intern, I worked on the Critical Care R&D division (now part of BD) for almost a year, collaborating with cross-functional teams focusing on advanced patient monitoring and data engineering. My projects utilized skills in data science, ML, animal labs, V&V testing, and regulatory affairs. I am currently one of the owners for a patent-pending recent project leveraging deep learning to predict hemodynamic parameters.\n"
   - image_path: /images/logos/epic.png
     alt: "Exoskeleton and Prosthetics Intelligent Controls Lab"
-    title: "Exoskeleton and Prosthetics Intelligent Controls Lab"
-    caption: "I worked under PI Aaron Young designing, testing, and analyzing robotic exoskeletons for the ankle and hip. I used multiple softwares to CAD and perform FEA analysis on parts and housing, while using MATLAB and motion capture to conduct data analyses that were eventually used in PhD presentations/dissertation work.
-    "
+    title: "Exoskeleton & Prosthetics Lab"
+    caption: "I worked under Dr. Aaron Young designing, testing, and analyzing robotic exoskeletons for the ankle and hip. I used multiple softwares to CAD and perform FEA on parts and housings, while using MATLAB and motion capture to conduct data analyses that were eventually used in PhD presentations and dissertation work.\n"
   - image_path: /images/logos/ucl.jpg
     alt: "University College London"
     title: "University College London"
-    caption: "I was fortunate to participate in a foreign exchange on a scholarship, and took courses that expanded the breadth of my engineering knowledge. I had projects and courses centered around medical devices and ethics, and even volunteered to research under the Cardiovascular Engineering Lab, examining effects of their transcatheter heart valves.
-    "
+    caption: "I was fortunate to participate in a foreign exchange on a scholarship, and took courses that centered around medical devices and ethics. I even volunteered to research under the Cardiovascular Engineering Lab, examining effects of their transcatheter heart valves.\n"
   - image_path: /images/logos/ventures.png
     alt: "Rose-Hulman Ventures"
     title: "Rose-Hulman Ventures"
-    caption: "I worked in a professional engineering consulting firm that collaborates with clients to provide solutions. As my first internship, I got to work on a multitude of projects that grew my design, prototyping, DFM, and client-communication skills.
-    "
+    caption: "I worked in a professional engineering consulting firm as my first internship, supporting a multitude of projects that grew my design, prototyping, DFM, and client-communication skills.\n"
   - image_path: /images/logos/wicket.png
     alt: "Wicket National"
     title: "Wicket National"
-    caption: "I've been a part of my family's small business since I was a child, and since I've become an engineer have conducted multiple projects to improve the production line equipment and research new products.
-    "
+    caption: "I've been a part of my family's small business since I was a child, and since I've become an engineer have conducted multiple projects to improve the production line equipment and research new products.\n"
 gallery_layout: third
 ---
 
-I chose to dedicate my career to engineering, with a particular interest in medical devices and data science. I've had the privilege to work, research, and study at a variety of opportunies that have helped shape the engineer I am today and sharpen my interdisciplinary skillset. Feel free to look below at some of my experiences across industry and academia! 
+I chose to dedicate my career to engineering, with a particular interest in medical devices and data science. I've had the privilege to work, research, and study at a variety of opportunies that helped shape the interdisciplinary engineer I am today. Feel free to read about some of my experiences across industry and academia! 
 
-If you would like to learn about specific projects I've documented, click on the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, cooking, or sports!), click "Contact" to reach out to me above!
+If you want to learn more about specific projects I've documented, click the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, cooking, or sports!), click "Contact" to reach out to me above!
 
 {% include gallery.html id="gallery" layout="third" caption="true" %}
