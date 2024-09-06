@@ -9,9 +9,9 @@ entries_layout: grid
 # classes: wide
 ---
 
-Welcome to my portfolio! Here are some of the projects I've been working on...
+Welcome to my portfolio! Here is a summary of some of the projects I've worked on...
 
-For more information on my professional and research experiences, go to the "About" page.
+For more information on my professional and research experiences/interests, go to my "About" page.
 
 <div class="entries-grid">
   <a href="/portfolio/self-landing-rocket/" class="project-card">
@@ -34,9 +34,9 @@ For more information on my professional and research experiences, go to the "Abo
     <div class="overlay">Lower-Limb Robotic Exoskeleton Hardware</div>
   </a>
 
-  <a href="/portfolio/wicket-machinery/" class="project-card">
-    <img src="/images/wicket-machinery.jpg" alt="Wicket Machinery Production Upgrades">
-    <div class="overlay">Wicket Machinery Production Upgrades</div>
+  <a href="/portfolio/wire-machinery/" class="project-card">
+    <img src="/images/wire-machinery.jpg" alt="Wicket Machinery Production Upgrades">
+    <div class="overlay">Wire Machinery Production Upgrades</div>
   </a>
 
   <a href="/portfolio/lvad-impeller/" class="project-card">
@@ -49,9 +49,9 @@ For more information on my professional and research experiences, go to the "Abo
     <div class="overlay">NBA Playoff Predictor Model</div>
   </a>
 
-  <a href="/portfolio/bag-sign/" class="project-card">
-    <img src="/images/sign.jpg" alt="Bag-Sign Stake Prototype">
-    <div class="overlay">Bag-Sign Stake Prototype</div>
+  <a href="/portfolio/wicket/" class="project-card">
+    <img src="/images/mystery2.jpg" alt="Bag-Sign Stake Prototype">
+    <div class="overlay">Prototype for Wicket Product Company</div>
   </a>
 
   <a href="/portfolio/cool-flowerpot/" class="project-card">

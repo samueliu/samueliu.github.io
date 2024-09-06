@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Wicket Machinery Production Upgrades
-permalink: /portfolio/wicket-machinery/
+title: Wire Machinery Production Upgrades
+permalink: /portfolio/wire-machinery/
 header:
   overlay_image: /images/tolerancing.jpg # Add the path to your splash image
   overlay_filter: 0.5 # Optional: Adjust the filter opacity for better title visibility
@@ -15,7 +15,7 @@ I was tasked to create an upgrade to one of their machines, and had a site-visit
 
 <div style="text-align: center;">
   <img src="/images/cadmachine.png" alt="cadfile" style="max-width: 70%; height: auto; border-radius: 10px;">
-  <p><em>CAD model of my proposed equipment upgrades.</em></p>
+  <p><em>CAD model of my proposed equipment upgrades</em></p>
 </div>
 
 Afterwards, I went through a rigorous geometric dimensioning and tolerancing analysis, electing for certain fits where necessary and creating detailed drawing files with all tolerances in IPS. I also included tap and drill instructions for all holes to fit with the proposed fasteners. For such a large component, the budget for only one machining attempt made proper dimensioning paramount.
@@ -39,7 +39,7 @@ The resulting parts were ordered and placed overseas using my drawings, and the 
     <p><em>Fastener test of arrived part</em></p>
   </div>
   <div style="flex: 1; margin: 10px;">
-    <img src="/images/wicket-machinery.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 10px;">
+    <img src="/images/wire-machinery.jpg" alt="" style="max-width: 100%; height: auto; border-radius: 10px;">
     <p><em>Components fully assembled on machine</em></p>
   </div>
 </div>

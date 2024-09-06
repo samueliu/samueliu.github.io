@@ -25,7 +25,7 @@ gallery:
   - image_path: /images/logos/epic.png
     alt: "Exoskeleton and Prosthetics Intelligent Controls Lab"
     title: "Exoskeleton & Prosthetics Lab"
-    caption: "I worked under Dr. Aaron Young designing, testing, and analyzing robotic exoskeletons for the ankle and hip. I used multiple softwares to CAD and perform FEA on parts and housings, while using MATLAB and motion capture to conduct data analyses that were eventually used in PhD presentations and dissertation work.\n"
+    caption: "I worked under Dr. Aaron Young and Dr. Ben Shafer, designing, testing, and analyzing robotic exoskeletons for the ankle and hip. I used multiple softwares to CAD and perform FEA on parts and housings, while using MATLAB and motion capture to conduct data analyses that were eventually used in PhD presentations and dissertation work.\n"
   - image_path: /images/logos/ucl.png
     alt: "University College London"
     title: "University College London"

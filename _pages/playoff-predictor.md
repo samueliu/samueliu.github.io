@@ -8,7 +8,9 @@ header:
   overlay_full: true  # Makes the header full-width
   actions:
     - label: "Visit GitHub"
-      url: ""
+      url: "https://github.com/AviShah10/nba-playoff-prediction"
 ---
 
 Currently working to get this GitHub public.
+
+
