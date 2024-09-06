@@ -11,6 +11,10 @@ header:
       url: "https://github.com/AviShah10/nba-playoff-prediction"
 ---
 
-Currently working to get this GitHub public.
+_Currently working to get this GitHub public._
 
-
+**Skills Used:**
+- Machine Learning (Scikit-learn)
+- Data Engineering
+- Open-Source Datasets
+- Data Visualizations

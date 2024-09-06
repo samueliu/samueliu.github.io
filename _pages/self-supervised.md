@@ -11,7 +11,7 @@ header:
       url: "https://irl.gatech.edu/"
 ---
 
-I'm currently a Master's student with Dr. Omer Inan's research lab, and am working on publishing my recent works using self-supervised learning methods to predict blood volume decompensation status (BVDS) in pigs. The project refers frequently to an existing paper: “Unifying the Estimation of Blood Volume Decompensation Status in a Porcine Model of Relative and Absolute Hypovolemia Via Wearable Sensing,” and the open-source code (excluding data) is on [GitHub](https://github.com/samueliu/bvds/).
+I'm currently a Master's student with Dr. Omer Inan's research lab, and am working on publishing my recent works using self-supervised learning methods to predict blood volume decompensation status (BVDS) in pigs. The project refers frequently to an existing paper: _“Unifying the Estimation of Blood Volume Decompensation Status in a Porcine Model of Relative and Absolute Hypovolemia Via Wearable Sensing,”_ and the open-source code (excluding data) is on [GitHub](https://github.com/samueliu/bvds/).
 
 Several pigs were put into various stages of BVDS, and the timeseries data from various wearable sensors were labeled and segmented, allowing for use in deep-learning models.
 
@@ -54,5 +54,8 @@ This model was able to beat the ones found in literature using the same dataset 
   </div>
 </div>
 
-
+**Skills Used:**
+- Deep Learning
+- Data Visualizations
+- Research
 

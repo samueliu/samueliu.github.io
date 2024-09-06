@@ -23,3 +23,7 @@ This is not a very advanced project. I just wanted to show off a flowerpot I rec
     <p><em>Final flowerpot I gave as a cute gift! (Includes lego flowers).</em></p>
   </div>
 </div>
+
+**Skills Used:**
+- 3D printing
+- CAD (Solidworks, Onshape)

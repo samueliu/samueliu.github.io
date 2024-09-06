@@ -9,7 +9,7 @@ header:
   actions:
 ---
 
-This was a project done for a small manufacturing company, so details about the function of the machine were omitted since it is proprietary. 
+_This was a project done for a small manufacturing company, so details about the function of the machine were omitted since it is proprietary._
 
 I was tasked to create an upgrade to one of their machines, and had a site-visit to determine the existing equipment's dimensions. I then designed a full assembly of my components on CAD, with use of readily-available fasteners and parts. This project was an overall great test of my GD&T analysis.
 
@@ -43,3 +43,8 @@ The resulting parts were ordered and placed overseas using my drawings, and the 
     <p><em>Components fully assembled on machine</em></p>
   </div>
 </div>
+
+**Skills Used:**
+- CAD (Solidworks)
+- Design for Manufacturing
+- Geometric Dimensioning & Tolerancing

@@ -9,8 +9,9 @@ header:
   actions:
 ---
 
+_This was a project done with a team at University College London for the manufacturing module._
 
-This was a project done with a team at University College London for the manufacturing module. We designed an impeller to be used for a left-ventricular pump, with full considerations for DFM, materials selections, production methods, cost, and lifecycle analysis. Below is a table used for initial engineering criteria, as we optimized blade number, height, slope, and angle for impeller efficiency.
+We designed an impeller to be used for a left-ventricular pump, with full considerations for DFM, materials selections, production methods, cost, and lifecycle analysis. Below is a table used for initial engineering criteria, as we optimized blade number, height, slope, and angle for impeller efficiency.
 
 <div style="text-align: center;">
   <img src="/images/stats.png" alt="impeller table" style="max-width: 80%; height: auto; border-radius: 10px;">
@@ -38,3 +39,8 @@ After determining the best course of manufacturing to be machining given the tig
   <img src="/images/impeller_test.png" alt="test rig" style="max-width: 75%; height: auto; border-radius: 10px;">
   <p><em>Testing rig used for impeller design</em></p>
 </div>
+
+**Skills Used:**
+- CAD
+- Optimization of Parameters
+- Design for Manufacturing

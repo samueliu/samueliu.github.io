@@ -59,4 +59,3 @@ For more information on my professional and research experiences/interests, go t
     <div class="overlay">Just a Cool Flowerpot</div>
   </a>
 </div>
-

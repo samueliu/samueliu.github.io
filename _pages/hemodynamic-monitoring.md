@@ -11,7 +11,7 @@ header:
     - label: "(PROPRIETARY: Edwards/BD)"
 ---
 
-Since this project was at my internship on the Critical Care Algorithms team at Edwards Lifesciences (now BD), many details have been redacted due to them being proprietary.
+_Since this project was at my internship on the Critical Care Algorithms team at Edwards Lifesciences (now BD), many details have been redacted due to them being proprietary._
 
 Overall, my approach was to use several deep-learning and machine-learning models and methods to extract parameters from the Swan-Ganz catheter less-invasively, mostly utilizing other sensors and demographics.
 
@@ -21,3 +21,8 @@ Overall, my approach was to use several deep-learning and machine-learning model
 </div>
 
 My project was a success and was able to beat baseline models within the team by 33%, and a patent was filed on my approach. More details will be added on in the future.
+
+**Skills Used:**
+- Deep Learning
+- Clinical Data
+- Regulatory Affairs (FDA)

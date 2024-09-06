@@ -14,8 +14,6 @@ header:
 
 This was a senior capstone project aimed to create a publically accessible  and educational testing bed for self-landing and self-stabilizing rocket controls. My role on the team was an all-encompassing role including detailed hardware, electrical, and software design. More detail, including a video, assembly guide, and open-source files are on [GitHub](https://github.com/samueliu/self-landing-rocket/).
 
-<!-- First image and text block -->
-
 <div style="text-align: center;">
   <img src="/images/team.png" alt="Rocket hardware design" style="max-width: 85%; height: auto; border-radius: 10px;">
   <p><em>Fall 2024 Capstone Team "Raise the Ratio!"</em></p>
@@ -49,5 +47,9 @@ The resulting product was a fully-functioning drone rocket, with ability to prov
   <p><em>Full rocket and backup rocket </em></p>
 </div>
 
-
+**Skills Used:**
+- Mechatronics Design
+- Prototyping/Fabrication
+- Sensor Fusion and Circuitry
+- Microcontroller Software
 

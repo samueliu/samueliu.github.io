@@ -52,4 +52,9 @@ I analyzed the effects of exoskeletons and optimizations at different walking sp
   <p><em>Graph showing effects of exoskeleton support on various muscles</em></p>
 </div>
 
-
+**Skills Used:**
+- Research
+- Protocol Design
+- Data Analysis and Programming
+- CAD (Solidworks)
+- Hardware Design
