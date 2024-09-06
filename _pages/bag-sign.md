@@ -1,7 +1,8 @@
 ---
 layout: single
-title: Bag-Sign Assembly Machinery
+title: Bag-Sign Stake Prototype
 permalink: /portfolio/bag-sign/
 ---
 
-This is one of my first ever engineering projects, which was during my internship at Rose-Hulman Ventures. Details are coming soon, as I am trying to retrieve photos of our project.
+This is one of my first ever engineering projects where my family took advantage of my free labor. Since the product may be proprietary, I will exclude details on the function of the product.
+

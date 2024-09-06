@@ -4,14 +4,14 @@ title: Portfolio
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
-classes: wide
+# author_profile: false
+# sidebar: false
+# classes: wide
 ---
 
-The following pages are currently under construction and do not provide much detail. Some projects are proprietary belonging to labs/companies. To see more detail for some projects (including the most recent), go to my [GitHub](https://github.com/samueliu/).
+Welcome to my portfolio! Here are some of the projects I've been working on...
 
 For more information on my professional and research experiences, go to the "About" page.
-
-Welcome to my portfolio! Here are some of the projects I've been working on:
 
 <div class="entries-grid">
   <a href="/portfolio/self-landing-rocket/" class="project-card">
@@ -31,7 +31,7 @@ Welcome to my portfolio! Here are some of the projects I've been working on:
 
   <a href="/portfolio/exoskeleton/" class="project-card">
     <img src="/images/exo.png" alt="Lower-Limb Robotic Exoskeletons">
-    <div class="overlay">Lower-Limb Robotic Exoskeletons</div>
+    <div class="overlay">Lower-Limb Robotic Exoskeleton Hardware</div>
   </a>
 
   <a href="/portfolio/wicket-machinery/" class="project-card">
@@ -40,7 +40,7 @@ Welcome to my portfolio! Here are some of the projects I've been working on:
   </a>
 
   <a href="/portfolio/lvad-impeller/" class="project-card">
-    <img src="/images/impeller.png" alt="LVAD Impeller Design">
+    <img src="/images/lvad.png" alt="LVAD Impeller Design">
     <div class="overlay">LVAD Impeller Design</div>
   </a>
 
@@ -50,8 +50,8 @@ Welcome to my portfolio! Here are some of the projects I've been working on:
   </a>
 
   <a href="/portfolio/bag-sign/" class="project-card">
-    <img src="/images/sign.jpg" alt="Bag-Sign Assembly Machinery Prototype">
-    <div class="overlay">Bag-Sign Assembly Machinery Prototype</div>
+    <img src="/images/sign.jpg" alt="Bag-Sign Stake Prototype">
+    <div class="overlay">Bag-Sign Stake Prototype</div>
   </a>
 
   <a href="/portfolio/cool-flowerpot/" class="project-card">
@@ -59,3 +59,4 @@ Welcome to my portfolio! Here are some of the projects I've been working on:
     <div class="overlay">Just a Cool Flowerpot</div>
   </a>
 </div>
+

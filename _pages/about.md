@@ -1,7 +1,10 @@
 ---
 layout: single
-title: About
+title: About Me
 permalink: /about/
+# author_profile: false
+# sidebar: false
+# classes: wide
 gallery:
   - image_path: /images/logos/gt.png
     alt: "Georgia Institute of Technology"
@@ -23,7 +26,7 @@ gallery:
     alt: "Exoskeleton and Prosthetics Intelligent Controls Lab"
     title: "Exoskeleton & Prosthetics Lab"
     caption: "I worked under Dr. Aaron Young designing, testing, and analyzing robotic exoskeletons for the ankle and hip. I used multiple softwares to CAD and perform FEA on parts and housings, while using MATLAB and motion capture to conduct data analyses that were eventually used in PhD presentations and dissertation work.\n"
-  - image_path: /images/logos/ucl.jpg
+  - image_path: /images/logos/ucl.png
     alt: "University College London"
     title: "University College London"
     caption: "I was fortunate to participate in a foreign exchange on a scholarship, and took courses that centered around medical devices and ethics. I even volunteered to research under the Cardiovascular Engineering Lab, examining effects of their transcatheter heart valves.\n"
@@ -40,6 +43,6 @@ gallery_layout: third
 
 I chose to dedicate my career to engineering, with a particular interest in medical devices and data science. I've had the privilege to work, research, and study at a variety of opportunies that helped shape the interdisciplinary engineer I am today. Feel free to read about some of my experiences across industry and academia! 
 
-If you want to learn more about specific projects I've documented, click the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, cooking, or sports!), click "Contact" to reach out to me above!
+If you want to learn more about specific projects I've documented, click the "Portfolio" tab. If you would like to chat with me about any of my interests, whether work related or otherwise (ask me about hiking, traveling, or sports!), click "Contact" to reach out!
 
 {% include gallery.html id="gallery" layout="third" caption="true" %}

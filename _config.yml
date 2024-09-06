@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hi!"
+  name             : 
   avatar           : "/images/profile.jpg"
-  bio              : "I am an Engineering Graduate student, who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
+  bio              : "I am an engineering graduate student who is passionate about the application of AI and robotics in fields that will benefit humanity. I have dedicated much of my early career towards medical devices, and am always wanting to expand my knowledge and help others."
   location         : "M.S. Student, TA @ Georgia Tech"
   email            : 
   links:
@@ -283,7 +283,7 @@ defaults:
       gallery:
         caption: true
         layout: third
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
       share: true
