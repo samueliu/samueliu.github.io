@@ -9,7 +9,7 @@ entries_layout: grid
 # classes: wide
 ---
 
-Welcome to my portfolio! Here is a summary of some of the projects I've worked on...
+Welcome to my portfolio! Here are some summaries of a few of the projects I've worked on...
 
 For more information on my professional and research experiences/interests, go to my "About" page.
 
