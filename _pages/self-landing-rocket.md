@@ -47,9 +47,16 @@ The resulting product was a fully-functioning drone rocket, with ability to prov
   <p><em>Full rocket and backup rocket </em></p>
 </div>
 
+  <!-- Embedded YouTube video -->
+  <div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3JtFpSVZIc?si=GQDsORj5KAeQModN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <p>Video detailing project</a>.</p>
+
 **Skills Used:**
 - Mechatronics Design
 - Prototyping/Fabrication
 - Sensor Fusion and Circuitry
 - Microcontroller Software
+
 

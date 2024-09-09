@@ -6,7 +6,7 @@ header:
   overlay_image: /images/badintern.jpg # Add the path to your splash image
   overlay_filter: 0.5 # Optional: Adjust the filter opacity for better title visibility
   overlay_full: true  # Makes the header full-width
-  caption: "Me being a bad intern during a meeting photo"
+  caption: "(Team is pictured in photo)"
   actions:
     - label: "(PROPRIETARY: Edwards/BD)"
 ---

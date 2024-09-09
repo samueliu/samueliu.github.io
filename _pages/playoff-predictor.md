@@ -11,7 +11,7 @@ header:
       url: "https://github.com/AviShah10/nba-playoff-prediction"
 ---
 
-_Currently working to get this GitHub public. When available will be on this [link](https://github.com/AviShah10/nba-playoff-prediction/)_
+_Please visit [GitHub page](https://github.com/AviShah10/nba-playoff-prediction/)_
 
 In this group project for CS 4641 (Machine Learning), we created several models to predict playoff performance of NBA teams, based only on the first half of the season's data. We gathered data directly from the NBA, and set the cutoff date for data at the midpoint of each season (2000-2022). The 2020, 2021, and 2022 seasons were left as a validation dataset.
 
