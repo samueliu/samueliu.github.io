@@ -44,8 +44,6 @@ The models had great success in predicting which teams made the playoffs in our 
 
 
 
-
-
 **Skills Used:**
 - Machine Learning (Scikit-learn)
 - Data Engineering
